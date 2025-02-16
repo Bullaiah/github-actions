@@ -2,7 +2,7 @@ terraform {
   required_providers {
     aws = {
       source  = "mycorp/aws"
-      version = "~> 1.5.0"
+      version = "~> 1.10.5"
     }
   }
 }
